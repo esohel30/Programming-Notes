@@ -58,3 +58,6 @@ def fib(n):
 
 print(fib(50)) # instantly solves it. This is the basics behind the concept of dp. 
 
+
+
+
